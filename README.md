@@ -9,6 +9,8 @@ Supported operations:
 - [x] Division
 - [x] Floating Point Output
 - [ ] Floating Point Input
+    - [x] Input
+    - [ ] Input Validation (double decimals, etc.)
 - [ ] Power
 - [ ] Square Root
 - [ ] n-th Root
